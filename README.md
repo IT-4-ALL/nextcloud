@@ -1,2 +1,2 @@
 Introduction
-vistit https://itfourall.com/nextcloud.php
+visit https://itfourall.com/nextcloud.php
